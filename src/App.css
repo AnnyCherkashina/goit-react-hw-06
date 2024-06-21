@@ -46,7 +46,7 @@
 
 .wrapper {
   width: 100vw;
-  height: 100vw;
-  background-image: linear-gradient(grey, black);
+  height: 110vw;
+  background-image: linear-gradient(rgba(232, 248, 59, 0.448), black);
 
 }
