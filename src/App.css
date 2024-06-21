@@ -43,3 +43,10 @@
 .read-the-docs {
   color: #888;
 }
+
+.wrapper {
+  width: 100vw;
+  height: 100vw;
+  background-image: linear-gradient(grey, black);
+
+}

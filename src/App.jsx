@@ -5,7 +5,7 @@ import SearchBox from "./components/SearchBox/SearchBox";
 
 function App() {
   return (
-    <div>
+    <div className="wrapper">
       <h1>Phonebook</h1>
       <ContactForm />
       <SearchBox />
